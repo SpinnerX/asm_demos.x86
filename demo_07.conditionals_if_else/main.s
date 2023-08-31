@@ -17,9 +17,11 @@ main:
     mov $32, %ebx # int x = 32;
     mov $20, %ecx # int y = 20;
 
+    # if (x > y) return 68
     cmp %eax, %ebx
-    mov $68, %eax
+    mov $68, %eax 
 
+    # else return 10
     jbe data
 
 data:
