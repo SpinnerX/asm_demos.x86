@@ -12,7 +12,7 @@
 # We load to register %eax value 32.
 # Then by that point, using two's compliment.
 
-# Just for review (in case I forget in the long run)
+# Just noting real quick here. 
 # Before the right shift:
 # ---
 # 7   6   5   4   3   2   1   0
