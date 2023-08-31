@@ -17,8 +17,8 @@ main:
 
     mov $32, %eax # x = 32
     mov $20, %ebx # y = 20
-    cmp %eax, %ebx
-    jg branch_1 # if(x > y) branch_1
+    cmp %eax, %ebx # if(x > y) branch_1
+    jg branch_1
 
 branch_1: # This is a label that lets us access specific parts of the assembly instructions that has us to stuff
     add %eax, %eax
