@@ -16,3 +16,6 @@ asm_demos/demo_05.division/*.o
 asm_demos/demo_06.conditionals_ifs/*.o
 asm_demos/demo_07.conditionals_if_elses/*.o
 
+.DS_Store
+.vscode
+
