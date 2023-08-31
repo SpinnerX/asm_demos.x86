@@ -15,7 +15,7 @@ Description utilizing AT&T X86 assembly syntax. in this asm_demos. Where there a
 
 X86 instruction user manual
 This link will allow us to know how to call specific instructions to do what we want it to do.
-https://docs.oracle.com/cd/E53394_01/pdf/E54851.pdf
+Link to the x86 assembly resource - ` https://docs.oracle.com/cd/E53394_01/pdf/E54851.pdf `
 
 ## Example Syntax Fundamentals
 
