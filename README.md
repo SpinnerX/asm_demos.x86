@@ -10,7 +10,7 @@ X86 instruction user manual
 This link will allow us to know how to call specific instructions to do what we want it to do.
 Link to the x86 assembly resource - ` https://docs.oracle.com/cd/E53394_01/pdf/E54851.pdf `
 
-## Example Syntax Fundamentals
+## Asm Demos Overview
 
 - Basic Syntaxes
 - Basic arithmetic (addition, subtraction, multiplication, and division) ✅
@@ -24,14 +24,12 @@ Link to the x86 assembly resource - ` https://docs.oracle.com/cd/E53394_01/pdf/E
 
 
 
-## Example projects demonstrating applications
+## Examples - small trivial projects demonstrating usage
 
-Example programs (utilizing the basic asm_demos)
-- asm_fizzbuzz (Where we implement fizzbuzz, using x86 assembly)
+- asm_fizzbuzz (implemented in x86 referencing to asm demos)
 
-## All general purpose registers
 
-Overview
+## Overview - All general purpose registers
 Registers are what we load values into, either a value to that register. Or from one register to the other.
 Use the "mov" command if you want to load a value to a register. (Reference to the demo_00.boilerplate, to test how mov works)
 
