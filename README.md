@@ -65,3 +65,5 @@ These registers are like the general-purpose except these are the 64-bit counter
 %rbp - 64-bit version of the general purpose register %ebp
 %rsp - 64-bit version of the general purpose register %esp
 ```
+## Resourceful Links
+AT&T Assembly Syntax Reference Link: `https://csiflabs.cs.ucdavis.edu/~ssdavis/50/att-syntax.htm`
