@@ -6,9 +6,7 @@ AT&T X86 Assembly
 Description utilizing AT&T X86 assembly syntax. in this asm_demos. Where there are basic examples of x86 assembly.
 
 
-X86 instruction user manual
-This link will allow us to know how to call specific instructions to do what we want it to do.
-Link to the x86 assembly resource - ` https://docs.oracle.com/cd/E53394_01/pdf/E54851.pdf `
+Reference resources links are below.
 
 ## Asm Demos Overview
 
@@ -62,4 +60,8 @@ These registers are like the general-purpose except these are the 64-bit counter
 %rsp - 64-bit version of the general purpose register %esp
 ```
 ## Resourceful Links
-AT&T Assembly Syntax Reference Link: `https://csiflabs.cs.ucdavis.edu/~ssdavis/50/att-syntax.htm`
+AT&T Assembly Syntax Reference Link: `https://csiflabs.cs.ucdavis.edu/~ssdavis/50/att-syntax.htm`\
+
+X86 instruction user manual\
+This link will allow us to know how to call specific instructions to do what we want it to do.
+Link to the x86 assembly resource - ` https://docs.oracle.com/cd/E53394_01/pdf/E54851.pdf `
