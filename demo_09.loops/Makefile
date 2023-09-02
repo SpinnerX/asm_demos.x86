@@ -1,5 +1,5 @@
 a.out:
-	gcc main.s -o main
+	gcc main.s read_int.c
 
 clean:
 	rm -rf *.o
