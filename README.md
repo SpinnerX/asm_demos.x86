@@ -17,7 +17,7 @@ Link to the x86 assembly resource - ` https://docs.oracle.com/cd/E53394_01/pdf/E
 - Conditional statements (using labels, and instructions like cmp, and jmp) ✅
 - functions (calling C functions, and using labels as assembly's version of function calls) ✅
 - loops (in assembly implementing the way for-loops work) ✅
-- Handle in loading in arrays (learning and demos of how to load in array (and possibly 2D arrays in x86)
+- Handle in loading in arrays (learning and demos of how to load in array (and possibly 2D arrays in x86) ✅
 - Handling classes functionality (essentially the x86 method of how to handle classes )
 - inline function calls (using extern "C", to call C functions and possibly a look into inline functions of using `asm` or `__asm__`)
 
@@ -27,6 +27,7 @@ Link to the x86 assembly resource - ` https://docs.oracle.com/cd/E53394_01/pdf/E
 ## Examples - small trivial projects demonstrating usage
 
 - asm_fizzbuzz (implemented in x86 referencing to asm demos)
+- largest value in the array (implemented in the asm demo #10, as part of the demo)
 
 
 ## Overview - All general purpose registers
