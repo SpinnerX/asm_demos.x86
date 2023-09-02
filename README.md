@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to Asm_Demos! Learning x86 assembly using the AT&T syntax\
+Welcome to Asm_Demos! Learning x86 assembly using the AT&T syntax
 
 
 Asm demos are where you can learn x86 the AT&T syntax. Going from fundamentals to learning how to use function calls to C functions. Including understanding of utilizing AT&T X86 assembly syntax, in the asm_demos. Included are basic demos, and examples that demonstrate how these syntaxes work. Which are to focus on being familiar with using assembly. If your new to x86, this could give you a helping hand\
