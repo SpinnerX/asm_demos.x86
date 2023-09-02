@@ -22,9 +22,11 @@ Link to the x86 assembly resource - ` https://docs.oracle.com/cd/E53394_01/pdf/E
 - Basic Syntaxes
 - Basic arithmetic (addition, subtraction, multiplication, and division)
 - Conditional statements (using labels, and instructions like cmp, and jmp)
-- Handle in loading in arrays
-- Handling classes functionality (essentially the x86 method)
-- inline function calls (using extern "C", to call C functions)
+- functions (calling C functions, and using labels as assembly's version of function calls)
+- loops (in assembly implementing the way for-loops work)
+- Handle in loading in arrays (learning and demos of how to load in array (and possibly 2D arrays in x86)
+- Handling classes functionality (essentially the x86 method of how to handle classes )
+- inline function calls (using extern "C", to call C functions and possibly a look into inline functions of using `asm` or `__asm__`)
 
 
 
