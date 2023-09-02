@@ -3,10 +3,12 @@
 ## Description
 
 AT&T X86 Assembly
-Description utilizing AT&T X86 assembly syntax. in this asm_demos. Where there are basic examples of x86 assembly.
+Welcome to Asm_Demos!
+
+Asm demos are where you can learn x86 the AT&T syntax. Going from fundamentals to learning how to use function calls to C functions. Including understanding of utilizing AT&T X86 assembly syntax, in the asm_demos. Included are basic demos, and examples that demonstrate how these syntaxes work. Which are to focus on being familiar with using assembly. If your new to x86, this could give you a helping hand
 
 
-Reference resources links are below.
+Reference resource links are below.
 
 ## Asm Demos Overview
 
@@ -15,7 +17,7 @@ Reference resources links are below.
 - Conditional statements (using labels, and instructions like cmp, and jmp) ✅
 - functions (calling C functions, and using labels as assembly's version of function calls) ✅
 - loops (in assembly implementing the way for-loops work) ✅
-- Handle in loading in arrays (learning and demos of how to load in array (and possibly 2D arrays in x86) ✅
+- Handle loading in arrays (learning and demos of how to load in array (and possibly 2D arrays in x86) ✅
 
 
 ## Examples - small trivial projects demonstrating usage
@@ -24,7 +26,7 @@ Reference resources links are below.
 - largest value in the array (implemented in the asm demo #10, as part of the demo)
 
 
-## Overview - All general purpose registers
+## Overview - All general-purpose registers
 Registers are what we load values into, either a value to that register. Or from one register to the other.
 Use the "mov" command if you want to load a value to a register. (Reference to the demo_00.boilerplate, to test how mov works)
 
